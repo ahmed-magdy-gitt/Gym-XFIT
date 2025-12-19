@@ -5,13 +5,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Live_Demo-success?style=for-the-badge)
-
-
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,git" />
   </a>
 </p>
+
 ## 🌐 Executive Summary
 **Gym-XFIT** is not just a website; it is a **comprehensive digital platform** dedicated to fitness enthusiasts. It bridges the gap between gym management and retail by combining a modern **Gym Website** with a fully functional **E-Commerce Store**.
 
