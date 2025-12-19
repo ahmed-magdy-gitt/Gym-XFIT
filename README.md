@@ -48,7 +48,7 @@ Built with modern web standards to ensure speed and performance:
 
 ## 📸 Project Glimpse
 *(Screenshots of the landing page and store)*
-> ![Home Page](link_to_image)
+> ![Home Page]([link_to_image](https://ahmed-magdy-gitt.github.io/Gym-XFIT/store.html))
 > ![Shop Section](link_to_image)
 
 ## 🚀 How to Run locally
