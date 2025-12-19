@@ -47,12 +47,12 @@ Built with modern web standards to ensure speed and performance:
 | **Version Control** | Git & GitHub |
 
 ## 📸 Project Glimpse
-*(Screenshots of the landing page and store)*
-> ![Home Page](
-<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/66ed4223-3b22-460a-bbdc-a20223721acf" />)
-<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/4fbf3b29-61e7-432e-9ad7-9cea39e16b4b" />
+<img width="1920" height="897" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/2c782bda-b5cf-4b19-9f78-589797e242ac" />
+<img width="1920" height="874" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/7869da5c-7f0a-4149-8e0f-ff039e66fbbd" />
+<img width="1920" height="894" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/7f0847ce-d3ca-40b7-a08b-ee6f9e1b2385" />
+<img width="1920" height="879" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/ded230fc-016b-4276-932e-7ae7e4496f29" />
+<img width="1920" height="863" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/24e5db19-d181-4aa5-878d-0c3d822aadea" />
 
-> ![Shop Section]((https://ahmed-magdy-gitt.github.io/Gym-XFIT/store.html))
 
 ## 🚀 How to Run locally
 1.  **Clone the repository:**
