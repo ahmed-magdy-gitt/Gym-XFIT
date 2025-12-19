@@ -50,6 +50,7 @@ Built with modern web standards to ensure speed and performance:
 *(Screenshots of the landing page and store)*
 > ![Home Page](
 <img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/66ed4223-3b22-460a-bbdc-a20223721acf" />)
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/4fbf3b29-61e7-432e-9ad7-9cea39e16b4b" />
 
 > ![Shop Section]((https://ahmed-magdy-gitt.github.io/Gym-XFIT/store.html))
 
